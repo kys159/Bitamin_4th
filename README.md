@@ -37,3 +37,17 @@
 2. PCA 이해를 위한 수리적 배경
 3. PCA 알고리즘
 4. PCA 실습
+
+<br>
+<br>
+<br>
+
+## 3. **MultiProcessing**
+
+<img src="https://user-images.githubusercontent.com/61648914/89808417-1056c500-db75-11ea-8e3d-49bd6b44cc3f.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/89808480-2e242a00-db75-11ea-8322-db710b71244e.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
+
+### :memo: 내용
+> ###### R을 활용한 Multiprocessing과 h2o 패키지를 활용한 병렬처리 모델링
+
+1. 병렬처리 소개 및 실습
+2. h2o 소개 및 실습
