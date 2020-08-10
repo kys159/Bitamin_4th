@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/61648914/89807035-e8666200-db72-11ea-8a9a-d9d0a5d4d549.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/89807112-0df36b80-db73-11ea-9a6a-4f8613761883.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
 
 ### :memo: 내용
-> ###### 전반적인 데이터 분석 Cycle 및 용어들을 소개하는 세션
+> ###### 전반적인 데이터 분석 Cycle 및 용어들의 소개 및 
 
 1. 머신러닝 및 데이터분석 소개
 2. 전처리
